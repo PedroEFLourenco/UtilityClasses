@@ -3,7 +3,8 @@ package utils;
 import java.util.Optional;
 
 
-public class NullSaver {
+public class NullSaver 
+{
 
 
 /**
